@@ -1,2 +1,2 @@
 # Unity-Game-Programming
-[ 2021 - 1 ]  [ 게임제작실습 ]  [ Unity ]
+2021년 1학기 게임 제작 실습 - Unity
