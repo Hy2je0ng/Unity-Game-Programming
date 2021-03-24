@@ -10,10 +10,10 @@
 <img src = "https://user-images.githubusercontent.com/39453104/111983332-5b927680-8b4d-11eb-8b93-288c8b19542c.png" width = "50%">
 
 
-03_Roulette2DGame : Roulette Control ( C# Script -> Object Control)
+03_2DRouletteGame : Roulette Control ( C# Script -> Object Control)
 
 <img src = "https://user-images.githubusercontent.com/39453104/111984773-29821400-8b4f-11eb-9d97-06b7dd3fd729.gif" width = "50%">
 
-03_ThreeRoulette2DGame : Three Roulette Control
+03_2DThreeRouletteGame : Three Roulette Control
 
 <img src = "https://user-images.githubusercontent.com/39453104/111986229-02c4dd00-8b51-11eb-9565-60108272a6d1.gif" width = "50%">
