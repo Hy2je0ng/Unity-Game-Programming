@@ -1,16 +1,16 @@
-# 🎮Unity-Game-Programming
+# 🎮 Unity-Game-Programming
 2021년 1학기 게임 제작 실습 - Unity
 
 </br>
 
-## 📚교재
+## 📚 Reference
 [그림으로 이해하고 만들면서 익히는유니티 교과서(개정4판)](https://www.gilbut.co.kr/book/view?bookcode=BN002998&keyword=%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EA%B5%90%EA%B3%BC%EC%84%9C&collection=GB_BOOK)
 
 [유니티 교과서 (개정4판) git](https://github.com/gilbutITbook/080267)
 
 </br>
 
-## 💻프로젝트
+## 💻 Project
 
 [01_Cube](./01_Cube) : 3D Cube Object translation, rotation, scale 값 변경 후 확인
 
