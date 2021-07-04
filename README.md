@@ -42,3 +42,7 @@
 [10_SkeletonAnimation](./10_SkeletonAnimation) : Create Skeleton animation using the 'Anima2D' utility
 
 <img src = "https://user-images.githubusercontent.com/39453104/124343544-3363ea80-dc07-11eb-88f2-5c22f7808d0a.gif" width = "50%">
+
+[12_3DBamsongi](./12_3DBamsongi) : Bamsongi shooting game (Paint Terrain / C# Script Controller / Particle Effect / Prefab)
+
+<img src = "https://user-images.githubusercontent.com/39453104/124379695-7ac7a500-dcf3-11eb-8162-925370895c7e.gif" width = "50%">
